@@ -1,13 +1,17 @@
 # Processes
-#### 365 days of exploration in Processing by Prayash Thapa (http://effulgence.io).
+
+#### 365 days of exploration in Processing by Prayash Thapa (http://prayash.io).
+
 > We believe that learning to program is not about acquiring a certain skillset, but is instead a creative and exploratory process.<b> - The Processsing Foundation<b>
 
 #### Tools
+
 - [Processing (Java)](https://processing.org/)
 - [HYPE Framework](http://www.hypeframework.org/)
 - [Toxic Libs](http://toxiclibs.org/)
 
 #### Resources
+
 - [Joshua Davis' courses](https://gumroad.com/joshuadavis)
 - [Dan Shiffman](https://www.youtube.com/user/shiffman/playlists)
 - [Kadenze](kadenze.com)
